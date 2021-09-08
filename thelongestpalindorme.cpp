@@ -59,7 +59,7 @@ int main()
          << longestPalSubstr(str);
     return 0;
 }
-
+///-----------------------------------------------------------------------
 ///with Dynamic Programming
 //first solution
 
@@ -152,7 +152,7 @@ int main()
          << longestPalSubstr(str);
     return 0;
 }
-
+///-----------------------------------------------------------------------
 //second solution
 
 ///TIME : O(N^2)
@@ -237,7 +237,7 @@ int main()
          << endl;
     return 0;
 }
-///
+///-----------------------------------------------------------------------
 #include <iostream>
 #include <algorithm>
 using namespace std;
